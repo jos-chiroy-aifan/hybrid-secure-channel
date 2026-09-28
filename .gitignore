@@ -1,0 +1,8 @@
+.idea/
+__pycache__/
+*.pyc
+data/archivo_cifrado*.bin
+data/archivo_descifrado.txt
+data/hmac.bin
+data/iv.bin
+keys/
